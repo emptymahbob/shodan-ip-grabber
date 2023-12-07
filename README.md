@@ -1,6 +1,6 @@
 ## Shodan IP Grabber (S. IP G.)
 
-![https://github.com/emptymahbob/sipg/blob/main/banner.png](banner.png)
+![https://github.com/emptymahbob/shodan-ip-grabber/blob/main/banner.png](banner.png)
 
 ## Description
 
@@ -11,7 +11,7 @@ Shodan IP Grabber is a command-line tool that leverages the Shodan API to search
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/emptymahbob/sipg.git
+   git clone https://github.com/emptymahbob/shodan-ip-grabber.git
 
 2. Navigate to the project directory:
 
