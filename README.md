@@ -23,7 +23,7 @@ Shodan IP Grabber is a command-line tool that leverages the Shodan API to search
    ```bash
    pip install -r requirements.txt
 
-## Commands
+## Uses/Commands:
 
 1. Search for IP addresses and display them in the command line:
 
